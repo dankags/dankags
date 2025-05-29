@@ -6,7 +6,7 @@
 
 ### 🔧 Tech Stack
 - **Frontend:** React.js, Next.js (App Router), TailwindCSS
-- **Backend:** Node.js, Express.js,SpringBoot, Prisma, MongoDB, Appwrite, Firebase
+- **Backend:** Node.js, Express.js, SpringBoot, Prisma, MongoDB, Postgress, Redis, Firebase
 - **Mobile:** React Native (Expo, Reanimated, Gesture Handler)
 - **Languages:** TypeScript, JavaScript,Java, Python, C++
 - **Tools:** Git, Docker, Postman, GitHub Actions
