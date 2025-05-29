@@ -6,11 +6,9 @@
 
 ### 🔧 Tech Stack
 - **Frontend:** React.js, Next.js (App Router), TailwindCSS
-- **Backend:** Node.js, Express.js, Prisma, MongoDB, Appwrite, Firebase
+- **Backend:** Node.js, Express.js,SpringBoot, Prisma, MongoDB, Appwrite, Firebase
 - **Mobile:** React Native (Expo, Reanimated, Gesture Handler)
-- **Languages:** TypeScript, JavaScript, Python, C++
-- **Real-time:** Socket.IO, WebSockets
-- **Payments:** M-Pesa API, Stripe, PayPal
+- **Languages:** TypeScript, JavaScript,Java, Python, C++
 - **Tools:** Git, Docker, Postman, GitHub Actions
 
 ---
